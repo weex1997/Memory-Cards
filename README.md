@@ -5,8 +5,7 @@
  </div>   
 
 
-# Overveiw
-
+## Overveiw
 
 ### Challenge Statment
 Make an inclusive solution that helps ease the waiting problem.
@@ -21,20 +20,20 @@ A game for people who don't want to feel a boring time to enjoy, so the games wi
 - localize your app to support multiple languages ✅
 - Build an app that supports Apple’s built-in accessibility settings ✅
 
-# Accessibility Included
+### Accessibility Included
 - Voice controle
 - design UI for blind color people
 
-# Language Support
+### Language Support
 - Arabic
 - English
 
-# Tools
+### Tools
 [![Swift][Swift-img]][Swift-url]   [![Figma][Figma-img]][Figma-url]
 
-# Team
+## Team
 #### WIN
-<a href="https://www.linkedin.com/in/wedad-almehmadi-701476200/">Wedad Almehmadi</a> - <a href="https://www.linkedin.com/in/shifa-abdulaziz-al-faisal-a60516121?original_referer=">Nourah</a> 
+<a href="https://www.linkedin.com/in/wedad-almehmadi-701476200/">Wedad Almehmadi</a> - <a href="https://www.linkedin.com/in/norah-alotaibi-0a34a3252/">Norah Alotaibi</a> 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -42,5 +41,5 @@ A game for people who don't want to feel a boring time to enjoy, so the games wi
 [Swift-url]: https://developer.apple.com/swift/
 
 [Figma-img]: https://img.shields.io/badge/-Figma-blue
-[Figma-url]: https://www.figma.com/login
+[Figma-url]: https://www.figma.com/file/c9Huf9Kh7N93zwRb7sR04U/Memory?node-id=0%3A1
 
