@@ -9,6 +9,8 @@ import UIKit
 
 class CardCollectionViewCell: UICollectionViewCell {
     
+
+
     @IBOutlet weak var FrontViewImage: UIImageView!
     
     @IBOutlet weak var BackViewImage: UIImageView!
@@ -16,6 +18,9 @@ class CardCollectionViewCell: UICollectionViewCell {
     var card:Card?
         
         func configureCell(card:Card) {
+
+            // accessibility
+            isAccessibilityElement = true
             
             // Keep track of the card this cell represents
             self.card = card
@@ -43,6 +48,7 @@ class CardCollectionViewCell: UICollectionViewCell {
                 // Show the back image view
                 flipDown(speed: 0, delay: 0)
             }
+            
         }
         
         func flipUp(speed:TimeInterval = 0.3) {

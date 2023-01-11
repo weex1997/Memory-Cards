@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  MemoryColor
+
+  Created by Wedad Almehmadi on 11/01/2023.
+  
+*/
+
+"Congratulations!"="تهانينا!";
+
+"You've won the game!"="لقد فزت!";
+
+"Time's Up"="انتهى الوقت";
+
+"Sorry, better luck next time!"="حاول مرة اخرى";
+
+"Replay"="اللعب من جديد";
+
+"Time Remaining: %.2f" = "الوقت المتبقي: %.2f";
