@@ -13,7 +13,7 @@ Make an inclusive solution that helps ease the waiting problem.
 ### Proposed Solution
 A game for people who don't want to feel a boring time to enjoy, so the games will help that.
 
-# Success Criteria
+## Success Criteria
 - Project is completed on time ✅
 - design an app that considers human diversity ✅
 - Design interfaces that support both LTR - RTL languages ✅
