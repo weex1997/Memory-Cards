@@ -15,14 +15,14 @@ A game for people who don't want to feel a boring time to enjoy, so the games wi
 
 ## Success Criteria
 - Project is completed on time ✅
-- design an app that considers human diversity ✅
+- Design an app that considers human diversity ✅
 - Design interfaces that support both LTR - RTL languages ✅
-- localize your app to support multiple languages ✅
+- Localize your app to support multiple languages ✅
 - Build an app that supports Apple’s built-in accessibility settings ✅
 
 ### Accessibility Included
 - Voice controle
-- design UI for blind color people
+- Design UI for blind color people
 
 ### Language Support
 - Arabic
