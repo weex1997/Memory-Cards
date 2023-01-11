@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <div>
-<h3><img align="left" width="100" height="100" src="iPhone App@2x.png"> <br/> Memory Cards <br/>
+<h3><img align="left" width="100" height="100" src="logo37.png"> <br/> Memory Cards <br/>
 <a href="https://testflight.apple.com/join/vu86ZiDu">Test-Flight</a> <br/> <br/> </h3>   
  </div>   
 
