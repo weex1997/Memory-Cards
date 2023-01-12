@@ -7,18 +7,14 @@
 
 ## Overveiw
 
+### Big Idea
+Inclusion.
+
 ### Challenge Statment
 Make an inclusive solution that helps ease the waiting problem.
 
-### Proposed Solution
+### Solution Concept
 A game for people who don't want to feel a boring time to enjoy, so the games will help that.
-
-## Success Criteria
-- Project is completed on time ✅
-- Design an app that considers human diversity ✅
-- Design interfaces that support both LTR - RTL languages ✅
-- Localize your app to support multiple languages ✅
-- Build an app that supports Apple’s built-in accessibility settings ✅
 
 ### Accessibility Included
 - Voice controle
@@ -30,6 +26,13 @@ A game for people who don't want to feel a boring time to enjoy, so the games wi
 
 ### Tools
 [![Swift][Swift-img]][Swift-url]   [![Figma][Figma-img]][Figma-url]
+
+## Success Criteria
+- Project is completed on time ✅
+- Design an app that considers human diversity ✅
+- Design interfaces that support both LTR - RTL languages ✅
+- Localize your app to support multiple languages ✅
+- Build an app that supports Apple’s built-in accessibility settings ✅
 
 ## Team
 #### WIN
