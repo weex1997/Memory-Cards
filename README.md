@@ -4,7 +4,10 @@
 <a href="https://testflight.apple.com/join/vu86ZiDu">Test-Flight</a> <br/> <br/> </h3>   
  </div>   
 
-<img align="center" width=50% height=50% src="MEMORYCARD.001.png">
+<p align="center">
+<img align="center" width=70% height=70% src="MEMORYCARD.001.png">
+</p>
+
 ## Overveiw
 
 ### Big Idea
