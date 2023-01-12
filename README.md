@@ -3,11 +3,7 @@
 <h3><img align="left" width="100" height="100" src="logo37.png"> <br/> Memory Cards <br/>
 <a href="https://testflight.apple.com/join/vu86ZiDu">Test-Flight</a> <br/> <br/> </h3>   
  </div>   
-
-<p align="center">
-<img align="center" width=70% height=70% src="MEMORYCARD.001.png">
-</p>
-
+ 
 ## Overveiw
 
 ### Big Idea
@@ -29,6 +25,11 @@ A game for people who don't want to feel a boring time to enjoy, so the games wi
 
 ### Tools
 [![Swift][Swift-img]][Swift-url]   [![Figma][Figma-img]][Figma-url]
+
+## Challenge Summary
+<p align="center">
+<img align="center" width=70% height=70% src="MEMORYCARD.001.png">
+</p>
 
 ## Success Criteria
 - Project is completed on time ✅
