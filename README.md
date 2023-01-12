@@ -1,24 +1,22 @@
 <!-- PROJECT LOGO -->
 <div>
 <h3><img align="left" width="100" height="100" src="logo37.png"> <br/> Memory Cards <br/>
-<a href="https://testflight.apple.com/join/vu86ZiDu">Test-Flight</a> <br/> <br/> </h3>   
+<a href="https://drive.google.com/file/d/1jhqD3NLq1ruabJON4HXeXB5yQlgDmdWS/view?usp=sharing">Demo</a> <br/> <a href="https://drive.google.com/file/d/1jhqD3NLq1ruabJON4HXeXB5yQlgDmdWS/view?usp=sharing">Test-Flight</a>  <br/> <br/> </h3>   
  </div>   
-
-
+ 
 ## Overveiw
+
+<video src="https://drive.google.com/file/d/1jhqD3NLq1ruabJON4HXeXB5yQlgDmdWS/view?usp=sharing" controls="controls" style="max-width: 730px;">
+</video>
+
+### Big Idea
+Inclusion.
 
 ### Challenge Statment
 Make an inclusive solution that helps ease the waiting problem.
 
-### Proposed Solution
+### Solution Concept
 A game for people who don't want to feel a boring time to enjoy, so the games will help that.
-
-## Success Criteria
-- Project is completed on time ✅
-- Design an app that considers human diversity ✅
-- Design interfaces that support both LTR - RTL languages ✅
-- Localize your app to support multiple languages ✅
-- Build an app that supports Apple’s built-in accessibility settings ✅
 
 ### Accessibility Included
 - Voice controle
@@ -30,6 +28,18 @@ A game for people who don't want to feel a boring time to enjoy, so the games wi
 
 ### Tools
 [![Swift][Swift-img]][Swift-url]   [![Figma][Figma-img]][Figma-url]
+
+## Challenge Summary
+<p align="center">
+<img align="center" width=70% height=70% src="MEMORYCARD.001.png">
+</p>
+
+## Success Criteria
+- Project is completed on time ✅
+- Design an app that considers human diversity ✅
+- Design interfaces that support both LTR - RTL languages ✅
+- Localize your app to support multiple languages ✅
+- Build an app that supports Apple’s built-in accessibility settings ✅
 
 ## Team
 #### WIN
