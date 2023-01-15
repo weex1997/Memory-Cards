@@ -29,7 +29,7 @@ A game for people who don't want to feel a boring time to enjoy, so the games wi
 
 ### Tools
 [![Swift][Swift-img]][Swift-url]   [![Figma][Figma-img]][Figma-url]
-
+[This is the design's link ](https://www.figma.com/file/c9Huf9Kh7N93zwRb7sR04U/Memory?node-id=0%3A1&t=Ij3tWD9rix8qTWeG-1)
 ## Challenge Summary
 <p align="center">
 <img align="center" width=70% height=70% src="MEMORYCARD.001.png">
